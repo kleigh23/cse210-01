@@ -10,7 +10,7 @@ def main():
         ["-", "-", "-"]
     ]
 
-    user = True # When true it referes to X, otherwiser O.
+    user = True # When true it referes to X, otherwise O.
     turns = 0
 
     while turns < 9: 
